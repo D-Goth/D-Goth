@@ -1,4 +1,5 @@
-https://github.com/D-Goth/D-Goth/blob/main/img/Bandeau_DG.png
+<p align="center">https://github.com/D-Goth/D-Goth/blob/main/img/Bandeau_DG.png</p>
+
 Développeur, maker & passionné d'informatique embarquée – 🇫🇷<br/>
 Créateur de contenus techniques & open source – [black-lab.fr](https://www.black-lab.fr)
 
