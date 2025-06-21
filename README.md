@@ -1,4 +1,4 @@
-<p align="center">https://github.com/D-Goth/D-Goth/blob/main/img/Bandeau_DG.png</p>
+![Logo Haut de page](https://github.com/D-Goth/D-Goth/blob/main/img/Bandeau_DG.png "Logo personnel").
 
 Développeur, maker & passionné d'informatique embarquée – 🇫🇷<br/>
 Créateur de contenus techniques & open source – [black-lab.fr](https://www.black-lab.fr)
