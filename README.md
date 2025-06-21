@@ -29,7 +29,7 @@ Je crée des outils, des interfaces web et des tutoriels autour des **Raspberry 
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| 🧠 NeoBerry | Dashboard web pour Raspberry Pi – GPIO, réseau, Bluetooth… | [Voir sur GitHub](https://github.com/D-Goth/NeoBerry) |
+| 🍓 NeoBerry | Dashboard web pour Raspberry Pi – GPIO, réseau, Bluetooth… | [Voir sur GitHub](https://github.com/D-Goth/NeoBerry) |
 | 🔊 Multiroom Audio | Système audio synchronisé via piCorePlayer & LMS | [Lire l’article](https://www.black-lab.fr/article/serveur-musique-multiroom-raspberry-pi5-picoreplayer.html) |
 | 📈 Monitoring Pi | Supervision de Raspberry Pi avec Grafana/Prometheus | [Lire l’article](https://www.black-lab.fr/article/superviser-raspberry-grafana-prometheus.html) |
 
