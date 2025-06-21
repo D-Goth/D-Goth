@@ -37,10 +37,12 @@ Je crée des outils, des interfaces web et des tutoriels autour des **Raspberry 
 
 ## 📺 Chaînes & liens
 
-- 🌐 Site principal : [https://www.black-lab.fr](https://www.black-lab.fr)
-- 📺 YouTube : [D-Goth](https://www.youtube.com/@D-Goth)
-- 💼 GitHub : [github.com/D-Goth](https://github.com/D-Goth)
-- ✉️ Contact : [Formulaire](https://www.black-lab.fr/contact)
+[![Site Web](https://img.shields.io/badge/Site-black--lab.fr-blue?logo=internet-explorer)](https://www.black-lab.fr)
+[![YouTube](https://img.shields.io/badge/YouTube-Black%20Lab-red?logo=youtube)](https://www.youtube.com/@Reviews-Tutos-Black-Lab)
+[![GitHub](https://img.shields.io/badge/GitHub-D--Goth-333?logo=github)](https://github.com/D-Goth)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre%20la%20communaut%C3%A9-5865F2?logo=discord)](https://discord.com/invite/xEy69qYseT)
+[![Contact](https://img.shields.io/badge/Contact-Formulaire-ff69b4?logo=gmail)](https://www.black-lab.fr/contact)
+
 
 ---
 
