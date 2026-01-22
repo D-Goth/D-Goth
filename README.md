@@ -30,6 +30,7 @@ Je crée des outils, des interfaces web et des tutoriels autour des **Raspberry 
 | Projet | Description | Lien |
 |--------|-------------|------|
 | 🍓 NeoBerry | Dashboard web pour Raspberry Pi – GPIO, réseau, Bluetooth… | [Voir sur GitHub](https://github.com/D-Goth/NeoBerry) |
+| 🐝 Hive AGI Protocols | Cadre éthique systémique et charte de gouvernance pour une AGI protectrice | [Voir sur GitHub](https://github.com/D-Goth/hive-agi-protocols) |
 | 🔊 Multiroom Audio | Système audio synchronisé via piCorePlayer & LMS | [Lire l’article](https://www.black-lab.fr/article/serveur-musique-multiroom-raspberry-pi5-picoreplayer.html) |
 | 📈 Monitoring Pi | Supervision de Raspberry Pi avec Grafana/Prometheus | [Lire l’article](https://www.black-lab.fr/article/superviser-raspberry-grafana-prometheus.html) |
 
@@ -83,6 +84,7 @@ I create tools, web interfaces, and tutorials around **Raspberry Pi**, **Arduino
 | Project | Description | Link |
 |---------|-------------|------|
 | 🍓 NeoBerry | Web dashboard for Raspberry Pi – GPIO, network, Bluetooth… | [View on GitHub](https://github.com/D-Goth/NeoBerry) |
+| 🐝 Hive AGI Protocols | Systemic ethical framework and governance charter for Protective AGI | [View on GitHub](https://github.com/D-Goth/hive-agi-protocols) |
 | 🔊 Multiroom Audio | Synchronized audio system with piCorePlayer & LMS | [Read the article](https://www.black-lab.fr/article/serveur-musique-multiroom-raspberry-pi5-picoreplayer.html) |
 | 📈 Monitoring Pi | Raspberry Pi supervision with Grafana/Prometheus | [Read the article](https://www.black-lab.fr/article/superviser-raspberry-grafana-prometheus.html) |
 
