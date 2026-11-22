@@ -29,6 +29,7 @@ Je crée des outils, des interfaces web et des tutoriels autour des **Raspberry 
 
 | Projet | Description | Lien |
 |--------|-------------|------|
+| 🔊 BLAST | Black-Lab Audio Streaming Tool — console de webradio et de live multi-OS ![IA Co-Working](https://img.shields.io/badge/IA%20Co--Working-Claude-ff6714?style=plastic&labelColor=555555&logo=Claude%20Code&logoColor=ffffff) | [Voir sur GitHub](https://github.com/D-Goth/BLAST-Broadcaster) | 
 | 🍓 NeoBerry | Dashboard web pour Raspberry Pi – GPIO, réseau, Bluetooth… | [Voir sur GitHub](https://github.com/D-Goth/NeoBerry) |
 | 🔴 OBS Status-Bar | Module HTML pour OBS : Surveillance des métriques système en temps réel | [Voir sur GitHub](https://github.com/D-Goth/OBS-Status-Bars) |
 | 🐝 Hive AGI Protocols | Cadre éthique systémique et charte de gouvernance pour une AGI protectrice | [Voir sur GitHub](https://github.com/D-Goth/hive-agi-protocols) |
@@ -85,6 +86,7 @@ I create tools, web interfaces, and tutorials around **Raspberry Pi**, **Arduino
 
 | Project | Description | Link |
 |---------|-------------|------|
+| 🔊 BLAST | Black-Lab Audio Streaming Tool — Multi-Os Webradio Audio & Live Console ![IA Co-Working](https://img.shields.io/badge/IA%20Co--Working-Claude-ff6714?style=plastic&labelColor=555555&logo=Claude%20Code&logoColor=ffffff) | [Voir sur GitHub](https://github.com/D-Goth/BLAST-Broadcaster) | 
 | 🍓 NeoBerry | Web dashboard for Raspberry Pi – GPIO, network, Bluetooth… | [View on GitHub](https://github.com/D-Goth/NeoBerry) |
 | 🔴 OBS Status-Bar | OBS HTML Module: Real-time monitoring of system metrics | [View on GitHub](https://github.com/D-Goth/OBS-Status-Bars) |
 | 🐝 Hive AGI Protocols | Systemic ethical framework and governance charter for Protective AGI | [View on GitHub](https://github.com/D-Goth/hive-agi-protocols) |
