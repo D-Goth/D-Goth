@@ -86,7 +86,7 @@ I create tools, web interfaces, and tutorials around **Raspberry Pi**, **Arduino
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🔊 BLAST Broadcaster | Black-Lab Audio Streaming Tool — Multi-Os Webradio Audio & Live Console ![IA Co-Working](https://img.shields.io/badge/IA%20Co--Working-Claude-ff6714?style=plastic&labelColor=555555&logo=Claude%20Code&logoColor=ffffff) | [Voir sur GitHub](https://github.com/D-Goth/BLAST-Broadcaster) | 
+| 🔊 BLAST Broadcaster | Black-Lab Audio Streaming Tool — Multi-Os Webradio Audio & Live Console ![IA Co-Working](https://img.shields.io/badge/IA%20Co--Working-Claude-ff6714?style=plastic&labelColor=555555&logo=Claude%20Code&logoColor=ffffff) | [View On GitHub](https://github.com/D-Goth/BLAST-Broadcaster) | 
 | 🍓 NeoBerry | Web dashboard for Raspberry Pi – GPIO, network, Bluetooth… | [View on GitHub](https://github.com/D-Goth/NeoBerry) |
 | 🔴 OBS Status-Bar | OBS HTML Module: Real-time monitoring of system metrics | [View on GitHub](https://github.com/D-Goth/OBS-Status-Bars) |
 | 🐝 Hive AGI Protocols | Systemic ethical framework and governance charter for Protective AGI | [View on GitHub](https://github.com/D-Goth/hive-agi-protocols) |
